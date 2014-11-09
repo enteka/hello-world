@@ -5,4 +5,4 @@ hello-world
 
 
 Friends, programmers, internet users.
-Lend me your ears.
+Lend me your screens.
